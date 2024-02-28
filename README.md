@@ -2,7 +2,7 @@
 
 Code developed for "A. Marino, C. Tiriolo, - Active Rear Wheel Steering and Direct Yaw Moment Robust Control using Automated Driving Toolbox".  
 Master's student "Calabria University".
-For any questions or suggestions write to alexismarino0109@gmail.com
+For any questions or suggestions write to alexismarino0109@gmail.com  
 Paper in publication process.
 
 
